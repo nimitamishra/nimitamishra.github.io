@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nimita Mishra
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th July 2004
     - name: Languages
-      value: English, German
+      value: English, Hindi, German
 
 - title: Education
   type: time_table
@@ -73,7 +73,7 @@
   contents:
     - year: 1921
       items: 
-        - Nobel Prize in Physics 
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
       items: 
@@ -94,4 +94,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Baking, Running, Crochet, Singing, Reading
